@@ -1,5 +1,5 @@
 header {
-    background-color: #f0f8ff;
+    background-color: rgb(27, 50, 82);
     padding: 20px;
     text-align: center;
     border-bottom: 2px solid #dcdcdc;
@@ -7,7 +7,7 @@ header {
 
 header h1 {
     font-family: 'Arial, sans-serif';
-    color: #333;
+    color: white;
     font-size: 2.5em;
     margin: 0;
     letter-spacing: 1px;
@@ -16,7 +16,7 @@ header h1 {
     display: flex;
     flex-direction: column;
     text-align: left;
-    background-color: #f9f9f9;
+    background-color: rgb(224, 217, 207);
     padding: 40px 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
